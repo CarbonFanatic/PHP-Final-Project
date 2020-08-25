@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<items>
+  <item>
+    <id>3</id>
+    <uid>christosAdmin</uid>
+    <name>Top Hat</name>
+    <Approval>Approved</Approval>
+    <color>none</color>
+    <size>One Size Fits All</size>
+    <comment>This top hat was to small</comment>
+  </item>
+  <item>
+    <id>3</id>
+    <uid>christosAdmin</uid>
+    <name>Top Hat</name>
+    <Approval>Approved</Approval>
+    <color>none</color>
+    <size>One Size Fits All</size>
+    <comment>I love this top hat, it is great</comment>
+  </item>
+  <item>
+    <id>1</id>
+    <uid>christosAdmin</uid>
+    <name>Baseball Hat</name>
+    <Approval>Dennied</Approval>
+    <color>black</color>
+    <size>One Size Fits All</size>
+    <comment>Blue Hat was way to big</comment>
+  </item>
+  <item>
+    <id>1</id>
+    <uid>ChristosAdmin</uid>
+    <name>Baseball Hat</name>
+    <Approval>Approved</Approval>
+    <color>black</color>
+    <size>One Size Fits All</size>
+    <comment>This baseball hat was to small</comment>
+  </item>
+  <item>
+    <id>1</id>
+    <uid>testing</uid>
+    <name>Baseball Hat</name>
+    <Approval>Approved</Approval>
+    <color>red</color>
+    <size>One Size Fits All</size>
+    <comment>I received a pink hat</comment>
+  </item>
+</items>

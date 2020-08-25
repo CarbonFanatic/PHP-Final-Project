@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Admin",
+        "UserName": "christosAdmin",
+        "password": "test"
+    },
+    {
+        "type": "standard",
+        "UserName": "christos",
+        "password": "temp123"
+    },
+    {
+        "type": "standard",
+        "UserName": "dimitri",
+        "password": "123temp"
+    },
+    {
+        "type": "standard",
+        "UserName": "peter",
+        "password": "p t"
+    }
+]
