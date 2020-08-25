@@ -30,7 +30,7 @@ session_start();
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
 
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="AboutUs.php">About Us</a></li>
                     <li><a href="ContactUs.php">Contact Us</a></li>
                     <li><a href="ourspecials.php">StorePage</a>
